@@ -901,6 +901,9 @@ video {
 .w-11\/12 {
   width: 91.666667%;
 }
+.w-auto {
+  width: auto;
+}
 .min-w-min {
   min-width: min-content;
 }
